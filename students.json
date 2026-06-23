@@ -1,0 +1,14 @@
+[
+    {
+        "student_id": 2556592,
+        "student_name": "Sameer",
+        "age": 20,
+        "marks": 9.5
+    },
+    {
+        "student_id": 2556574,
+        "student_name": "Alok",
+        "age": 19,
+        "marks": 8.5
+    }
+]
